@@ -1,0 +1,36 @@
+.header {
+    /* background-color: blue; */
+    padding: 16px;
+    text-align: center;
+    margin: 16px;
+  }
+  
+  .form-container {
+    background-color: rebeccapurple;
+    padding: 20px;
+  }
+
+  .form-group {
+  font-size: 1.2rem;
+  padding-bottom: 6px;
+  color: white;
+  }
+
+  input,select,textarea {
+    border: 1px solid white;
+    border-radius: 6px;
+    width: 100%;
+    font-size: 0.9rem;
+    padding: 6px;
+  }
+
+  label {
+    display: block;
+    margin: 8px auto;
+    align-items: center;
+    /* margin-bottom: 0.5rem; */
+  }
+
+  button {
+    width: 100%;
+  }
